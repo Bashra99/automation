@@ -9,7 +9,7 @@ it is about help TAs at ASAC to take attendance by automation in python based on
 Author: Bashar Telfah
 
 ### Setup
-## [Pull requests]()
+## [Pull requests](https://github.com/Bashra99/automation/pulls)
 
 requirements:
 ```
